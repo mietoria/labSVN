@@ -11,4 +11,8 @@ public class I {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
+
+    public byte oo() {
+        return 1;
+    }
 }

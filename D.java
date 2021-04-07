@@ -11,4 +11,8 @@ public class D extends I {
     public byte oo() {
         return 1;
     }
+
+    public long dd() {
+        return 100500;
+    }
 }
