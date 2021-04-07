@@ -1,4 +1,4 @@
-public class G {
+public class G extends null {
 
     private long c = 4321;
 
@@ -16,15 +16,23 @@ public class G {
         return new java.util.Random();
     }
 
+    public double ee() {
+        return 0.000001;
+    }
+
     public int af() {
         return -1;
     }
 
-    public double ee() {
-        return 500.100;
-    }
-
     public int ae() {
         return 9;
+    }
+
+    public long dd() {
+        return 100500;
+    }
+
+    public void aa() {
+        return;
     }
 }

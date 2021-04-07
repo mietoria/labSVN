@@ -1,4 +1,4 @@
-public class I {
+public class I extends null {
 
     private byte e = 1;
 
@@ -26,5 +26,21 @@ public class I {
 
     public long dd() {
         return 99999;
+    }
+
+    public int cc() {
+        return 13;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
+    public void aa() {
+        System.out.println("Hello world!");
     }
 }

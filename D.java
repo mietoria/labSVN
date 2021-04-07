@@ -27,4 +27,20 @@ public class D extends I {
     public double ad() {
         return java.lang.Math.sqrt(13);
     }
+
+    public void ab() {
+        System.out.println();
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public long ac() {
+        return 333;
+    }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
 }
