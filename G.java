@@ -11,4 +11,8 @@ public class G {
     public void ab() {
         return;
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }
