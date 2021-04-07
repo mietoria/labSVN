@@ -20,23 +20,15 @@ public class B extends null {
         return java.lang.Math.abs(-7);
     }
 
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
+
     public long ac() {
         return 111;
     }
 
     public double ad() {
         return 11.09;
-    }
-
-    public long dd() {
-        return 99999;
-    }
-
-    public void ab() {
-        System.out.println("\n");
-    }
-
-    public java.util.Set<Integer> ll() {
-        return new java.util.LinkedList<Integer>;
     }
 }
