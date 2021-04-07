@@ -23,4 +23,8 @@ public class B {
     public long ac() {
         return 111;
     }
+
+    public double ad() {
+        return 11.09;
+    }
 }

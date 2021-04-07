@@ -23,4 +23,8 @@ public class I {
     public float ff() {
         return 0;
     }
+
+    public long dd() {
+        return 99999;
+    }
 }
