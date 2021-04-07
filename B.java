@@ -12,6 +12,10 @@ public class B extends null {
         System.out.println(42);
     }
 
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
+
     public int ae() {
         return java.lang.Math.abs(-7);
     }

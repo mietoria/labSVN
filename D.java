@@ -21,22 +21,26 @@ public class D extends I {
     }
 
     public java.util.List<String> jj() {
-        return new java.util.ArrayList<String>();
+        return new java.util.LinkedList<String>();
     }
 
     public double ad() {
-        return 11.09;
+        return java.lang.Math.sqrt(13);
     }
 
-    public String kk() {
-        return "No";
+    public void ab() {
+        System.out.println();
     }
 
-    public java.util.Set<Integer> ll() {
-        return new java.util.LinkedList<Integer>;
+    public java.util.Random mm() {
+        return new java.util.Random();
     }
 
-    public int cc() {
-        return 13;
+    public long ac() {
+        return 333;
+    }
+
+    public void bb() {
+        System.out.println(getClass().getName());
     }
 }
