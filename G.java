@@ -19,4 +19,8 @@ public class G {
     public int af() {
         return -1;
     }
+
+    public double ee() {
+        return 500.100;
+    }
 }
