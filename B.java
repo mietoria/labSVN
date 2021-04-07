@@ -15,4 +15,8 @@ public class B {
     public int ae() {
         return java.lang.Math.abs(-7);
     }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
 }
