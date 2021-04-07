@@ -1,4 +1,4 @@
-public class B {
+public class B extends null {
 
     private byte a = 1;
 
@@ -22,5 +22,29 @@ public class B {
 
     public long ac() {
         return 111;
+    }
+
+    public void aa() {
+        return;
+    }
+
+    public float ff() {
+        return 3.14;
+    }
+
+    public int cc() {
+        return 39;
+    }
+
+    public double ee() {
+        return 0.000001;
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
+
+    public long dd() {
+        return 100500;
     }
 }

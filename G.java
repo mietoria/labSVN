@@ -1,4 +1,4 @@
-public class G {
+public class G extends null {
 
     private long c = 4321;
 
@@ -22,5 +22,33 @@ public class G {
 
     public double ee() {
         return 500.100;
+    }
+
+    public long dd() {
+        return 99999;
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public double ad() {
+        return 11;
+    }
+
+    public String kk() {
+        return "Hello world";
+    }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
+
+    public int ae() {
+        return java.lang.Math.abs(-6);
     }
 }

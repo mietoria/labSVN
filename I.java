@@ -1,4 +1,4 @@
-public class I {
+public class I extends null {
 
     private byte e = 1;
 
@@ -22,5 +22,29 @@ public class I {
 
     public float ff() {
         return 0;
+    }
+
+    public void ab() {
+        System.out.println("\n");
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
+
+    public long dd() {
+        return 99999;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public void aa() {
+        return;
     }
 }

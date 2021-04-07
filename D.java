@@ -21,6 +21,22 @@ public class D extends I {
     }
 
     public java.util.List<String> jj() {
-        return new java.util.LinkedList<String>();
+        return new java.util.ArrayList<String>();
+    }
+
+    public double ad() {
+        return 11.09;
+    }
+
+    public String kk() {
+        return "No";
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
+    public int cc() {
+        return 13;
     }
 }
