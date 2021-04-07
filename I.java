@@ -40,11 +40,19 @@ public class I extends null {
         return 99999;
     }
 
+    public int cc() {
+        return 13;
+    }
+
     public Object rr() {
         return null;
     }
 
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
     public void aa() {
-        return;
+        System.out.println("Hello world!");
     }
 }

@@ -16,12 +16,12 @@ public class G extends null {
         return new java.util.Random();
     }
 
-    public int af() {
-        return -1;
+    public double ee() {
+        return 0.000001;
     }
 
-    public double ee() {
-        return 500.100;
+    public int af() {
+        return -1;
     }
 
     public long dd() {
@@ -50,5 +50,13 @@ public class G extends null {
 
     public int ae() {
         return java.lang.Math.abs(-6);
+    }
+
+    public long dd() {
+        return 100500;
+    }
+
+    public void aa() {
+        return;
     }
 }
