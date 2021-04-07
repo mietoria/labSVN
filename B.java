@@ -11,8 +11,4 @@ public class B {
     public void bb() {
         System.out.println(42);
     }
-
-    public int ae() {
-        return java.lang.Math.abs(-7);
-    }
 }
