@@ -23,4 +23,8 @@ public class D extends I {
     public java.util.List<String> jj() {
         return new java.util.LinkedList<String>();
     }
+
+    public double ad() {
+        return java.lang.Math.sqrt(13);
+    }
 }
