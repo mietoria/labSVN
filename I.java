@@ -15,4 +15,8 @@ public class I {
     public byte oo() {
         return 1;
     }
+
+    public int ae() {
+        return java.lang.Math.abs(-7);
+    }
 }
